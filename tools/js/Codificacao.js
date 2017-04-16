@@ -1,10 +1,3 @@
-/*
- * Algoritmo de Criptografia (Cifra de César): codificação
- *
- * Autor: Felipe Pontes
- * Email: felipemfpontes@gmail.com
- */
-
 var mensagem, mensagemCodificada = '', cifra;
 
 mensagem = prompt('Digite sua mensagem');
