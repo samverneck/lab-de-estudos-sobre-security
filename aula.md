@@ -12,5 +12,6 @@ Essa vai ser nossa ementa pode-se dizer assim não é lá uma parada hardcore, m
 
 Por enquanto é isso que veio na mente.
 
+Na parte de matemática me lembrei que é bom estudarmos um pouco de aritmética modular e etc..
 ps: Abordaremos um cadinho de matemática tbm...
 
